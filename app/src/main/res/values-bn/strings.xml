@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Common actions -->
+    <string name="action_send">পাঠান</string>
+    <string name="action_receive">গ্রহণ করুন</string>
+    <string name="action_back">ফিরে যান</string>
+    <string name="action_cancel">বাতিল</string>
+    <string name="action_cancel_transfer">ট্রান্সফার বাতিল করুন</string>
+    <string name="action_keep_going">চালিয়ে যান</string>
+    <string name="action_accept">গ্রহণ করুন</string>
+    <string name="action_decline">প্রত্যাখ্যান</string>
+    <string name="action_continue">চালিয়ে যান</string>
+    <string name="action_not_now">এখন না</string>
+    <string name="action_open_settings">সেটিংস খুলুন</string>
+    <string name="action_open_location_settings">লোকেশন চালু করুন</string>
+    <string name="action_grant">অনুমতি দিন</string>
+    <string name="action_retry">আবার চেষ্টা করুন</string>
+    <string name="action_stop">বন্ধ করুন</string>
+    <string name="action_show">দেখুন</string>
+    <string name="action_done">সম্পন্ন</string>
+    <string name="action_clear">মুছে ফেলুন</string>
+    <string name="action_open">খুলুন</string>
+    <string name="action_share">শেয়ার</string>
+    <string name="action_delete">ডিলিট</string>
+    <string name="action_save">সেভ করুন</string>
+    <string name="action_reset">রিসেট</string>
+    <string name="action_ok">ঠিক আছে</string>
+    <string name="action_remove_item">%1$s সরান</string>
+
+    <!-- Home -->
+    <string name="home_tagline">কাছের ফোনে ফাইল শেয়ার করুন। ইন্টারনেট, অ্যাকাউন্ট বা বিজ্ঞাপন—কিছুই লাগে না।</string>
+    <string name="home_send_hint">ছবি, ভিডিও, ফাইল, ফোল্ডার বা অ্যাপ</string>
+    <string name="home_receive_hint">কাছের ফোন থেকে ফাইল নিন</string>
+    <string name="home_receiving_on">গ্রহণ করা হচ্ছে…</string>
+    <string name="home_active_send">%1$s-এ পাঠানো হচ্ছে</string>
+    <string name="home_active_receive">%1$s থেকে আসছে</string>
+    <string name="home_active_progress">%2$s-এর মধ্যে %1$s</string>
+    <string name="home_mode_title">সংযোগ: %1$s</string>
+    <string name="home_mode_wifi">Google Play services থাকা ফোন Nearby দিয়ে যুক্ত হয় (Wi-Fi নেটওয়ার্ক লাগে না)। অন্য ফোন একই Wi-Fi বা হটস্পটে LocalSend ব্যবহার করে।</string>
+    <string name="home_mode_no_wifi">Wi-Fi-তে যুক্ত নেই: Google Play services থাকা ফোনের মধ্যে Nearby তবুও কাজ করবে। LocalSend-এর জন্য একই Wi-Fi-তে যুক্ত হন বা একটি ফোনের হটস্পট চালু করুন।</string>
+    <string name="home_setup_title">ট্রান্সফার চালু রাখুন</string>
+    <string name="home_setup_body">%1$s ফোন ব্যাকগ্রাউন্ডে অ্যাপ বন্ধ করে দিতে পারে। দুটি ছোট সেটিং ঠিক করলেই হবে।</string>
+    <string name="home_recent">সাম্প্রতিক ডিভাইস</string>
+
+    <!-- Modes -->
+    <string name="mode_auto">স্বয়ংক্রিয়</string>
+
+    <!-- Send -->
+    <string name="send_title">পাঠান</string>
+    <string name="send_tab_files">ফাইল</string>
+    <string name="send_tab_apps">অ্যাপ</string>
+    <string name="send_pick_media">ছবি ও ভিডিও</string>
+    <string name="send_pick_files">ডকুমেন্ট</string>
+    <string name="send_pick_folder">ফোল্ডার</string>
+    <string name="send_nothing_selected">এখনও কিছু বাছাই করা হয়নি</string>
+    <string name="send_selected_summary">%1$s · %2$s</string>
+    <string name="send_more_files">…আরও %1$dটি</string>
+    <string name="send_nearby">যাকে পাঠাবেন</string>
+    <string name="send_searching">কাছের ফোন খোঁজা হচ্ছে</string>
+    <string name="send_no_peers">গ্রহণ মোডে থাকা ফোন খোঁজা হচ্ছে… অন্য ফোনে গ্রহণ খুলুন। Google Play services না থাকলে দুটি ফোনকে একই Wi-Fi বা হটস্পটে থাকতে হবে।</string>
+    <string name="send_pick_first">আগে কী পাঠাবেন তা বাছাই করুন, তারপর ফোন বেছে নিন।</string>
+    <string name="send_to">%1$s-এ পাঠান</string>
+    <string name="send_apps_note">অ্যাপের মূল APK পাঠানো হয়। বান্ডেল (split APK) থেকে ইনস্টল করা অ্যাপ শুধু এটা দিয়ে ইনস্টল নাও হতে পারে।</string>
+    <string name="share_nothing">শেয়ার করা ফাইল পড়া যায়নি।</string>
+    <string name="share_text_unsupported">DropLink ফাইল পাঠায়, লেখা নয়।</string>
+
+    <!-- Receive -->
+    <string name="receive_title">গ্রহণ করুন</string>
+    <string name="receive_visible_as">অন্য ফোনে আপনার নাম</string>
+    <string name="receive_off">গ্রহণ মোড বন্ধ আছে।</string>
+    <string name="receive_start">গ্রহণ শুরু করুন</string>
+    <string name="receive_stop">গ্রহণ বন্ধ করুন</string>
+    <string name="receive_waiting">ফাইলের অপেক্ষায়…</string>
+    <string name="receive_tip_title">টিপস</string>
+    <string name="receive_tip_body">অন্য ফোনে DropLink → পাঠান খুলে এই ফোনের নামে চাপুন। Google services নেই? দুটি ফোনকে একই Wi-Fi-তে রাখুন, অথবা এই ফোনের হটস্পট চালু করে অন্য ফোন থেকে তাতে যুক্ত হন।</string>
+    <string name="receive_setup_link">ব্যাকগ্রাউন্ডে ট্রান্সফার থেমে যায়? ফোন সেটআপ করুন</string>
+    <string name="state_ready">প্রস্তুত</string>
+    <string name="state_starting">চালু হচ্ছে…</string>
+    <string name="state_unavailable">পাওয়া যাচ্ছে না</string>
+    <string name="state_off">বন্ধ</string>
+    <string name="state_on">চালু</string>
+
+    <!-- Incoming request -->
+    <string name="incoming_title">ফাইল আসছে</string>
+    <string name="incoming_summary">%1$s আপনাকে %2$s (%3$s) পাঠাতে চায়।</string>
+    <string name="incoming_code_hint">পাঠানোর ফোনে একই কোড দেখালে তবেই গ্রহণ করুন।</string>
+    <string name="incoming_trust">এই ফোন থেকে সবসময় গ্রহণ করুন</string>
+
+    <!-- Transfer -->
+    <string name="transfer_title">ট্রান্সফার</string>
+    <string name="transfer_none">কোনো ট্রান্সফার চলছে না।</string>
+    <string name="transfer_via">মাধ্যম: %1$s</string>
+    <string name="transfer_code_label">কোড</string>
+    <string name="transfer_code_hint_sender">প্রাপকের ফোনেও এই কোড দেখায়। আলাদা হলে বাতিল করুন।</string>
+    <string name="transfer_code_hint_receiver">পাঠানোর ফোনের কোডের সাথে মিলেছে।</string>
+    <string name="transfer_bytes">%2$s-এর মধ্যে %1$s</string>
+    <string name="transfer_average">গড় গতি: %1$s</string>
+    <string name="transfer_saved_to">Download/DropLink-এ (বা আপনার বাছাই করা ফোল্ডারে) সেভ হয়েছে।</string>
+    <string name="transfer_partial_body">✗ চিহ্নিত ফাইলগুলো পুরোপুরি আসেনি, তাই রাখা হয়নি। আবার পাঠান।</string>
+    <string name="transfer_declined_body">অন্য ফোনটি ফাইলগুলো প্রত্যাখ্যান করেছে।</string>
+    <string name="transfer_cancelled_body">ট্রান্সফার বাতিল করা হয়েছে।</string>
+    <string name="cancel_confirm_title">ট্রান্সফার বাতিল করবেন?</string>
+    <string name="cancel_confirm_body">যে ফাইলগুলো এসে গেছে সেগুলো থাকবে। চলমান ফাইলটি বাদ যাবে।</string>
+    <string name="file_verified">সম্পন্ন</string>
+    <string name="file_already_there">আগেই এসেছে</string>
+    <string name="file_failed">ব্যর্থ: %1$s</string>
+    <string name="file_failed_unknown">অজানা ত্রুটি</string>
+    <string name="format_speed">%1$s/সে</string>
+    <string name="format_eta">%1$s বাকি</string>
+    <string name="format_mbps">%1$.1f MB/সে</string>
+    <string name="eta_unknown">হিসাব করা হচ্ছে…</string>
+
+    <!-- Phases -->
+    <string name="phase_connecting">সংযোগ হচ্ছে…</string>
+    <string name="phase_waiting_approval">অন্য ফোনের অনুমতির অপেক্ষায়…</string>
+    <string name="phase_transferring">পাঠানো হচ্ছে</string>
+    <string name="phase_reconnecting">সংযোগ বিচ্ছিন্ন। আবার যুক্ত হয়ে বাকিটা পাঠানো হবে…</string>
+    <string name="phase_completed">সম্পন্ন</string>
+    <string name="phase_partial">কিছু ত্রুটিসহ সম্পন্ন</string>
+    <string name="phase_failed">ট্রান্সফার ব্যর্থ</string>
+    <string name="phase_cancelled">বাতিল হয়েছে</string>
+    <string name="phase_declined">প্রত্যাখ্যাত</string>
+    <string name="done_sent">সব ফাইল পাঠানো হয়েছে</string>
+    <string name="done_received">সব ফাইল এসেছে</string>
+    <string name="done_partial">%1$dটি ফাইল ব্যর্থ হয়েছে</string>
+    <string name="done_body">%1$s · %2$s · %3$s</string>
+
+    <!-- Errors -->
+    <string name="err_wifi_off">Wi-Fi বন্ধ। Wi-Fi চালু করুন (কোনো নেটওয়ার্কে যুক্ত হওয়ার দরকার নেই)।</string>
+    <string name="err_location_off">লোকেশন বন্ধ। কাছের ফোন খুঁজতে Android ৮–১২-তে এটি চালু থাকা দরকার।</string>
+    <string name="err_permission">DropLink-কে কাছের ডিভাইস ব্যবহারের অনুমতি দেওয়া হয়নি। অনুমতি দিন, অথবা একই Wi-Fi-তে LocalSend ব্যবহার করুন।</string>
+    <string name="err_peer_cancelled">অন্য ফোনটি বাতিল করেছে।</string>
+    <string name="err_no_answer">অন্য ফোনটি সময়মতো সাড়া দেয়নি।</string>
+    <string name="err_connection_lost">সংযোগ বিচ্ছিন্ন হয়েছে এবং আবার চালু করা যায়নি।</string>
+    <string name="err_could_not_connect">অন্য ফোনে পৌঁছানো যায়নি। দুটি ফোন কাছাকাছি রাখুন, আর অন্য ফোনে গ্রহণ খোলা রাখুন।</string>
+    <string name="err_busy">অন্য ফোনটি আরেকটি ট্রান্সফারে ব্যস্ত।</string>
+    <string name="err_other">কিছু একটা সমস্যা হয়েছে: %1$s</string>
+
+    <!-- Permissions -->
+    <string name="perm_nearby_title">কাছের ডিভাইস</string>
+    <string name="perm_location_switch_title">লোকেশন চালু করুন</string>
+    <string name="perm_location_switch_body">Android ৮–১২ শুধু লোকেশন চালু থাকলেই কাছের ফোন খুঁজে পায়। ট্রান্সফারের পরে আবার বন্ধ করতে পারেন।</string>
+    <string name="perm_notifications_title">নোটিফিকেশন</string>
+    <string name="perm_notifications_body">বাতিল বোতামসহ ট্রান্সফারের অগ্রগতি দেখায়, এবং DropLink খোলা না থাকলেও আসা ফাইল গ্রহণ করতে দেয়।</string>
+    <string name="perm_storage_title">স্টোরেজ</string>
+    <string name="perm_storage_body">Android 8–9-এ আসা ফাইল Download/DropLink-এ সেভ করতে লাগে।</string>
+    <string name="perm_open_settings_hint">আগে আপনি এটি প্রত্যাখ্যান করেছেন। DropLink-এর সেটিংস → অনুমতি থেকে চালু করুন।</string>
+
+    <!-- History -->
+    <string name="history_title">ইতিহাস</string>
+    <string name="history_tab_files">ফাইল</string>
+    <string name="history_tab_speed">গতির লগ</string>
+    <string name="history_empty">এখনও কিছু নেই।</string>
+    <string name="history_sent">পাঠানো</string>
+    <string name="history_received">প্রাপ্ত</string>
+    <string name="history_clear">ইতিহাস মুছুন</string>
+    <string name="history_clear_body">শুধু তালিকা মুছবে। প্রাপ্ত ফাইল ফোনেই থাকবে।</string>
+    <string name="history_delete_title">%1$s ডিলিট করবেন?</string>
+    <string name="history_delete_file_body">ফাইলটি এই ফোন থেকে ডিলিট করবেন, নাকি শুধু ইতিহাসের তালিকা থেকে সরাবেন?</string>
+    <string name="history_delete_entry_body">এই এন্ট্রিটি ইতিহাস থেকে সরাবেন? মূল ফাইলে হাত দেওয়া হবে না।</string>
+    <string name="history_remove_entry_only">শুধু তালিকা থেকে সরান</string>
+    <string name="history_cant_open">ফাইলটি খোলা যাচ্ছে না (হয়তো সরানো বা ডিলিট করা হয়েছে)।</string>
+    <string name="history_actions">%1$s-এর অপশন</string>
+    <string name="history_speed_note">প্রতিটি ট্রান্সফারের গড় মাপা গতি। এটি দুই ফোনের Wi-Fi-এর ওপর নির্ভর করে: ৫ GHz ফোন শুধু ২.৪ GHz ফোনের চেয়ে অনেক দ্রুত।</string>
+
+    <!-- Settings -->
+    <string name="settings_title">সেটিংস</string>
+    <string name="settings_section_device">এই ফোন</string>
+    <string name="settings_device_name">ডিভাইসের নাম</string>
+    <string name="settings_device_name_hint">অন্য ফোনে দেখানো হয়</string>
+    <string name="settings_save_location">প্রাপ্ত ফাইল সেভ হবে</string>
+    <string name="settings_save_default">Download/DropLink</string>
+    <string name="settings_save_note">SD কার্ডসহ যেকোনো ফোল্ডার বেছে নিতে পারেন। DropLink কখনও পুরো স্টোরেজের অনুমতি চায় না।</string>
+    <string name="settings_section_trusted">বিশ্বস্ত ডিভাইস</string>
+    <string name="settings_auto_accept">বিশ্বস্ত ডিভাইস থেকে স্বয়ংক্রিয় গ্রহণ</string>
+    <string name="settings_auto_accept_hint">“সবসময় গ্রহণ” চিহ্নিত ফোনের জন্য অনুমতির ডায়ালগ দেখাবে না। শুরুতে বন্ধ থাকে।</string>
+    <string name="settings_no_trusted">কোনো বিশ্বস্ত ডিভাইস নেই। ফাইল গ্রহণের সময় “এই ফোন থেকে সবসময় গ্রহণ করুন” টিক দিন।</string>
+    <string name="settings_key">কী %1$s</string>
+    <string name="settings_untrust">%1$s-কে আর বিশ্বস্ত রাখবেন না</string>
+    <string name="settings_section_connection">সংযোগের পদ্ধতি</string>
+    <string name="settings_mode_note">স্বয়ংক্রিয়: দুই ফোনেই Google Play services থাকলে Nearby, না হলে একই Wi-Fi বা হটস্পটে LocalSend।</string>
+    <string name="settings_section_appearance">চেহারা</string>
+    <string name="settings_theme">থিম</string>
+    <string name="theme_system">সিস্টেম অনুযায়ী</string>
+    <string name="theme_light">লাইট</string>
+    <string name="theme_dark">ডার্ক</string>
+    <string name="settings_language">ভাষা</string>
+    <string name="language_system">সিস্টেম অনুযায়ী</string>
+    <string name="settings_section_reliability">নির্ভরযোগ্যতা</string>
+    <string name="settings_setup_hint">আপনার ফোন ব্র্যান্ডের ব্যাটারি ও অটোস্টার্ট সেটিং</string>
+    <string name="selftest_title">সেলফ-টেস্ট চালান</string>
+    <string name="selftest_hint">ফোনটি পরীক্ষা করতে এনক্রিপ্টেড LocalSend সংযোগে নিজেকেই ৩২ MB পাঠায়।</string>
+    <string name="selftest_ok">পাস · এই ফোনে %1$s</string>
+    <string name="selftest_failed">ব্যর্থ: %1$s</string>
+    <string name="about_version">DropLink %1$s</string>
+    <string name="about_body">অফলাইন ফাইল শেয়ারিং। ইন্টারনেট, অ্যাকাউন্ট, বিজ্ঞাপন বা ট্র্যাকিং নেই।</string>
+
+    <!-- Phone setup -->
+    <string name="setup_title">ফোন সেটআপ</string>
+    <string name="setup_detected">শনাক্ত হয়েছে: %1$s</string>
+    <string name="setup_intro">কিছু ফোন ব্যাটারি বাঁচাতে ব্যাকগ্রাউন্ডে অ্যাপ বন্ধ করে দেয়, ফলে ট্রান্সফার কেটে যায়। এই ধাপগুলো একবার করে নিন।</string>
+    <string name="setup_battery_title">১. ব্যাটারি অপটিমাইজেশন</string>
+    <string name="setup_battery_body">DropLink-কে ব্যাটারি সীমাবদ্ধতা ছাড়া চলতে দিন।</string>
+    <string name="setup_battery_done">সম্পন্ন: DropLink-এ ব্যাটারি সীমাবদ্ধতা নেই।</string>
+    <string name="setup_battery_action">সীমাবদ্ধতা তুলে দিন</string>
+    <string name="setup_autostart_title">২. অটোস্টার্ট ও ব্যাকগ্রাউন্ড</string>
+    <string name="setup_autostart_action">অটোস্টার্ট সেটিং খুলুন</string>
+    <string name="setup_app_settings_action">অ্যাপ সেটিং খুলুন</string>
+    <string name="setup_lock_title">৩. সাম্প্রতিক অ্যাপে DropLink লক করুন</string>
+    <string name="setup_lock_body">সাম্প্রতিক অ্যাপের স্ক্রিন খুলুন, DropLink চেপে ধরুন (বা নিচে টানুন) এবং লক আইকনে চাপুন, যাতে “সব মুছুন” দিলেও বন্ধ না হয়।</string>
+    <string name="setup_footer">ROM সংস্করণভেদে মেনুর নাম আলাদা হয়। কোনো বোতাম ভুল স্ক্রিন খুললে সেটিংসে “Autostart”, “App launch”, “Background activity” বা “Battery” খুঁজুন।</string>
+
+    <string name="oem_xiaomi">Xiaomi / Redmi / POCO</string>
+    <string name="oem_huawei">Huawei</string>
+    <string name="oem_honor">Honor</string>
+    <string name="oem_oppo">OPPO / realme / OnePlus</string>
+    <string name="oem_vivo">vivo / iQOO</string>
+    <string name="oem_samsung">Samsung</string>
+    <string name="oem_transsion">Tecno / Infinix / itel</string>
+    <string name="oem_other">আপনার ফোন</string>
+    <string name="oem_steps_xiaomi">Security অ্যাপ → Permissions → Autostart → DropLink চালু করুন। তারপর Settings → Apps → DropLink → Battery saver → “No restrictions”।</string>
+    <string name="oem_steps_huawei">Phone Manager → App launch → DropLink → “Manage automatically” বন্ধ করে Auto-launch, Secondary launch ও Run in background চালু করুন।</string>
+    <string name="oem_steps_honor">Settings → Battery → App launch → DropLink → ম্যানুয়ালে নিয়ে তিনটি অপশনই চালু করুন।</string>
+    <string name="oem_steps_oppo">Settings → Apps → DropLink → Battery usage → ব্যাকগ্রাউন্ড অ্যাক্টিভিটি ও auto launch চালু করুন। পুরোনো ColorOS-এ: Phone Manager → Privacy permissions → Startup manager।</string>
+    <string name="oem_steps_vivo">i Manager → App manager → Autostart → DropLink চালু করুন। Settings → Battery → Background power consumption → DropLink-কে অনুমতি দিন।</string>
+    <string name="oem_steps_samsung">Settings → Battery → Background usage limits → DropLink যেন “Sleeping apps” বা “Deep sleeping apps”-এ না থাকে।</string>
+    <string name="oem_steps_transsion">Phone Master → App management → Auto-start → DropLink চালু করুন। সাম্প্রতিক অ্যাপে DropLink লকও করে রাখুন।</string>
+    <string name="oem_steps_other">Settings → Apps → DropLink → Battery → Unrestricted। ফোনে Autostart মেনু থাকলে সেখানেও DropLink চালু করুন।</string>
+
+    <!-- Notifications -->
+    <string name="channel_active">চলমান ট্রান্সফার</string>
+    <string name="channel_requests">ফাইল গ্রহণের অনুরোধ</string>
+    <string name="channel_finished">সম্পন্ন ট্রান্সফার</string>
+    <string name="notif_sending_to">%1$s-এ পাঠানো হচ্ছে</string>
+    <string name="notif_receiving_from">%1$s থেকে আসছে</string>
+    <string name="notif_progress_detail">%2$s-এর মধ্যে %1$s · %3$s · %4$s</string>
+    <string name="notif_ready_title">গ্রহণের জন্য প্রস্তুত</string>
+    <string name="notif_ready_text">“%1$s” নামে দেখা যাচ্ছে</string>
+
+    <!-- Quick Settings tile -->
+    <string name="tile_label">DropLink গ্রহণ</string>
+    <string name="tile_on">চালু</string>
+    <string name="tile_off">বন্ধ</string>
+    <string name="tile_on_cd">DropLink গ্রহণ মোড চালু। বন্ধ করতে চাপুন।</string>
+    <string name="tile_off_cd">DropLink গ্রহণ মোড বন্ধ। চালু করতে চাপুন।</string>
+
+    <plurals name="file_count">
+        <item quantity="one">%dটি ফাইল</item>
+        <item quantity="other">%dটি ফাইল</item>
+    </plurals>
+    <plurals name="files_done">
+        <item quantity="one">%2$dটির মধ্যে %1$dটি ফাইল</item>
+        <item quantity="other">%2$dটির মধ্যে %1$dটি ফাইল</item>
+    </plurals>
+
+    <!-- Diagnostics -->
+    <string name="diag_copy">ডায়াগনস্টিক লগ কপি করুন</string>
+    <string name="diag_copy_hint">কিছু ব্যর্থ হলে এটি কপি করে ডেভেলপারকে পাঠান। এতে ফাইলের কোনো বিষয়বস্তু নেই।</string>
+    <string name="diag_copied">লগ কপি হয়েছে</string>
+    <!-- v2: Nearby + LocalSend -->
+    <string name="mode_nearby">Nearby (Google)</string>
+    <string name="mode_localsend">LocalSend (Wi-Fi)</string>
+    <string name="send_nearby_off_title">Nearby চলছে না</string>
+    <string name="send_tip_title">ফোনগুলো কীভাবে একে অপরকে খুঁজে পায়</string>
+    <string name="send_tip_body">Nearby (দুই ফোনেই Google Play services): যেকোনো জায়গায় কাজ করে, একই Wi-Fi লাগে না। Bluetooth ফোন খুঁজে পায়, Wi-Fi দিয়ে ফাইল যায়।\nLocalSend: সব ফোনে কাজ করে, Google ছাড়া ফোনেও, যখন দুটি ফোন একই Wi-Fi বা একটি ফোনের হটস্পটে থাকে। কম্পিউটারের LocalSend অ্যাপের সাথেও কাজ করে।</string>
+    <string name="receive_nearby_ready">কাছের ফোনগুলো দেখতে পাচ্ছে (Bluetooth + Wi-Fi)</string>
+    <string name="receive_localsend_ready">এই Wi-Fi-তে %1$s ঠিকানায় দেখা যাচ্ছে</string>
+    <string name="incoming_code_inline">কোড %1$s।</string>
+    <string name="err_bluetooth_off">Bluetooth বন্ধ। Nearby-এর জন্য এটি চালু করুন (এটি অন্য ফোন খুঁজে পায়; ফাইল তবুও Wi-Fi দিয়ে যায়)।</string>
+    <string name="err_nearby_unavailable">Nearby-এর জন্য Google Play services দরকার, যা এই ফোনে নেই (বা পুরোনো)। Wi-Fi দিয়ে LocalSend তবুও কাজ করবে।</string>
+    <string name="err_nearby_failed">Nearby চালু হতে পারেনি। Bluetooth ও Wi-Fi বন্ধ করে আবার চালু করুন, তারপর আবার চেষ্টা করুন।</string>
+    <string name="err_no_network">Wi-Fi-তে যুক্ত নেই। LocalSend-এর জন্য অন্য ফোনের মতো একই Wi-Fi-তে যুক্ত হন, অথবা তার হটস্পটে যুক্ত হন।</string>
+    <string name="err_pin_required">অন্য ডিভাইসটি PIN চাইছে। তার LocalSend সেটিংসে “Require PIN” বন্ধ করুন।</string>
+    <string name="perm_nearby_body">Google Nearby অন্য ফোন খুঁজতে ও সরাসরি যুক্ত হতে Bluetooth ও Wi-Fi ব্যবহার করে। DropLink কখনো আপনার লোকেশন ব্যবহার করে না।</string>
+    <string name="perm_nearby_body_location">Android ৮–১২-তে Bluetooth ও Wi-Fi স্ক্যানের জন্য লোকেশনের অনুমতি লাগে। DropLink কখনো আপনার লোকেশন পড়ে না বা সংরক্ষণ করে না।</string>
+    <string name="settings_nearby_available">Google Play services: এই ফোনে আছে।</string>
+    <string name="settings_nearby_missing">Google Play services: এই ফোনে নেই, তাই LocalSend ব্যবহার হবে।</string>
+    <string name="setup_nearby_body">Nearby-এর জন্য দরকার (Bluetooth + Wi-Fi)। LocalSend-এর জন্য দরকার নেই।</string>
+</resources>
